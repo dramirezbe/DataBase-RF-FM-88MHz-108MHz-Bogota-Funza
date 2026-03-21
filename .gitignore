@@ -3,3 +3,4 @@ DataBase-RF-FM-88MHz-108MHz-Bogota-Funza/
 DatasetFM-no-gains-88M-108M/
 __pycache__/
 .env
+.cache
